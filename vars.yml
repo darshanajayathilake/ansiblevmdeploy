@@ -1,0 +1,8 @@
+---
+vcenter_hostname: "vcenter.lab.com"
+vcenter_datacenter: "Data_Center"
+vcenter_validate_certs: false
+vcenter_username: "administrator@vsphere.local"
+vcenter_password: ""
+cluster_name: "Data_Cluster"
+template: "wintemplate"
